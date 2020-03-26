@@ -1,0 +1,20 @@
+{
+  "name": "asd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "delay": "^4.3.0",
+    "md5-hex": "^3.0.1",
+    "node-fetch": "^2.6.0",
+    "random-name": "^0.1.2",
+    "random-useragent": "^0.3.1",
+    "randomatic": "^3.1.1",
+    "readline-sync": "^1.4.10"
+  }
+}
