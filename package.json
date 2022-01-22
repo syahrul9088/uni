@@ -11,7 +11,7 @@
   "dependencies": {
     "delay": "^4.3.0",
     "md5-hex": "^3.0.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "random-name": "^0.1.2",
     "random-useragent": "^0.3.1",
     "randomatic": "^3.1.1",
